@@ -1,2 +1,2 @@
-# Artificial-Intelligence-AI-Assignments-using-Python
-AI &amp; ML ASSIGNMENTS USING PYTHON 
+# Artificial Intelligence Assignments using Python
+AI/ML ASSIGNMENTS USING PYTHON 
